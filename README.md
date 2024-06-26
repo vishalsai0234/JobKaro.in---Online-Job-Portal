@@ -61,8 +61,7 @@ You may use the  Create database  feature.
 ## To access localhost: search http://localhost in any browser.
 
 
-- To run this project, open localhost/jobportal/index.php or type it in the browser then it gets executed.
+- Open localhost/jobportal/index.php or type it in the browser then it gets executed & be assured that xampp's apache and mysql in running state to run this project.
 
 - Further details are provided in Job Presentation pdf.
 
-Don't forget to star this repository if you find it helpfull!!
